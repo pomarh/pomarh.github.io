@@ -140,7 +140,7 @@ a{
 			}
 			.navegacion a{
 				color: #fff;
-				font-size: 11px,
+				font-size: 11px;
 				text-transform: uppercase;
 				padding: 0 10px;
 				letter-spacing: 2px;
@@ -156,11 +156,11 @@ a{
 		h4{
 			background: #000;
 			color: #fff;
-			padding: 10px,
+			padding: 10px;
 			text-transform: uppercase;
 		}
 			.publicidad{
-				/*background: #ffea85;*/
+				background: #ffea85;
 			}
 	.footer{
 		background: #000;
@@ -170,7 +170,7 @@ a{
 		padding: 10px 0;
 	}
 		.pie{
-			/*background: #e6ad2e*/;
+			/*background: #e6ad2e*/
 			text-align: center;
 		}
 		.pie a{
